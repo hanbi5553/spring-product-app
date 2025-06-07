@@ -34,3 +34,4 @@ Spring Boot + Spring Security 기반의 웹 애플리케이션으로, 회원가�
 
 ```bash
 ./gradlew bootRun
+접속 주소: http://localhost:8080
